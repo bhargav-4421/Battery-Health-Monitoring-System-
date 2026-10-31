@@ -2,8 +2,7 @@
 
 A hardware-based battery protection and monitoring system that detects unsafe battery conditions such as overheating and low battery levels, and provides immediate alerts using a buzzer along with data visualization through a web interface.
 
-🔗 **Live Demo (UI View):**  
-https://gani077.github.io/BHMS/
+
 
 ---
 
